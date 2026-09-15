@@ -1,0 +1,7 @@
+langgraph
+browser-use
+open-interpreter
+langchain-openai
+langchain-google-genai
+python-dotenv
+playwright
